@@ -1,0 +1,52 @@
+.H3fino{
+    font-weight:lighter;
+}
+
+.CarteiraEstudante{
+    color: white ;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(11, 196, 247);
+    border-radius: 10px;
+    height: 600px;
+    width: 800px;
+    padding: 7px;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.Cart{
+    text-align: start;
+}
+
+p{
+    font-weight: bolder;
+}
+
+body{
+    background-color: black;
+}
+
+
+.SNE{
+ text-align: end; 
+ height: 10;  
+ width:700px;
+ 
+}
+
+.Number{
+    text-align: end;
+    height: 40px;
+    width: 650px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+img{
+   height: 100px; 
+}
+
+.Identidade{
+    display: flex;
+}
